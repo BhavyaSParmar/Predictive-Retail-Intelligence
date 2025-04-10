@@ -2,7 +2,7 @@
 
 This project presents a comprehensive data analysis of an e-commerce platform, focused on uncovering trends in customer behavior, product performance, and brand preferences. By leveraging Python-based tools, the project delivers strategic insights to improve conversions, marketing efforts, and overall store performance.
 
----
+--- 
 
 ## 🧠 Objective
 
